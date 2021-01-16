@@ -4,11 +4,11 @@
 | :------: | :------------------------------------------------: |
 | 电脑型号 |          Acer TravelMate-P645MG                |
 |  处理器  |        intel Core i7-4510U @ 2.30GHz 2core        |
-|   主板   |                     Unknown                  |
+|   主板   |                     宏碁 BAD40 _HW                  |
 |   显卡   |               Radeon HD 8750M ( 2 GB )            |
 |   内存   |               2x 4GB DDR3 1600MHz              |
 |   硬盘   |              512GB  SATA 2.5寸机械          |
-|  显示器  |                      Unknown                     |
+|  显示器  |                   友达 AUO2A3C                  |
 |   声卡   |                     Unknown                    |
 |   网卡   |              Intel Wireless-N 7260          |
 |  读卡器  |                     Unknown                 |
